@@ -13,5 +13,5 @@
 
 <h3>Mobile</h3>
 
-<img>![image](https://user-images.githubusercontent.com/79472656/115971472-09af8880-a51f-11eb-88b3-e5c556ec1e3b.png)
+<img>![image](https://user-images.githubusercontent.com/79472656/115971498-264bc080-a51f-11eb-8d31-ef9230c8d0ea.png)
 </img>
