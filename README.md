@@ -1,11 +1,3 @@
-<style>
-    h1 {
-        text-align: center;
-    }
-</style>
-
-<h1>Bem vindo! :wave:</h1>
-
 <h1>Cards Responsivos</h1>
 
 <p>Este é um um projeto copiado do youtube da Girl Coding. https://www.youtube.com/watch?v=_-3nHZHkn4M</p>
